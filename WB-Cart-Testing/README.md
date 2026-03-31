@@ -30,21 +30,21 @@
 <details>
   <summary><b>1. Чек-листы (3 шт.) — Нажми, чтобы развернуть</b></summary>
   <p>Структурированные проверки по модулям: Функционал, UI/UX, Граничные значения.</p>
-  <img src="checklist_1.png" width="900">
-  <img src="checklist_2.png" width="900">
-  <img src="checklist_3.png" width="900">
+  <img src="/images/checklist_1.png" width="900">
+  <img src="/images/checklist_2.png" width="900">
+  <img src="/images/checklist_3.png" width="900">
 </details>
 
 <details>
   <summary><b>2. Тест-кейс (Детальное описание) — Нажми, чтобы развернуть</b></summary>
   <p>Пример оформления подробного тест-кейса с шагами и ожидаемым результатом.</p>
-  <img src="test_case.png" width="900">
+  <img src="/images/test_case.png" width="900">
 </details>
 
 <details>
   <summary><b>3. Тест-план (Регресс) — Нажми, чтобы развернуть</b></summary>
   <p>Общий план прогона для модуля Корзина.</p>
-  <img src="test_plan.png" width="900">
+  <img src="/images/test_plan.png" width="900">
 </details>
 
 ---
